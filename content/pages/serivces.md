@@ -12,11 +12,25 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Need help implementing generative AI in your business? I can help with
+      translating AI capabilities into practical, real-world solutions that
+      drive results.
+
+
+
+      Whether you're looking to streamline operations, enhance customer
+      experience, or develop innovative AI-powered features, I'll help you
+      navigate the complexities of AI implementation while maintaining privacy
+      and security.
+
+
+      Through targeted consulting sessions, we'll identify your specific
+      challenges and develop actionable strategies using the latest AI
+      technologies. Ready to transform your business with AI?
+
+
+      Click below to answer a few quick questions about your needs, and we'll
+      schedule a focused consultation to map out your AI journey.
     actions:
       - type: Button
         label: See open positions
